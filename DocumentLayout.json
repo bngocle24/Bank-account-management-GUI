@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299E2C6D-F0D6-4478-840A-077488D8D465}|guibankapp\\guibankapp.csproj|d:\\th l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\tinhlaidukienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{299E2C6D-F0D6-4478-840A-077488D8D465}|guibankapp\\guibankapp.csproj|solutionrelative:guibankapp\\tinhlaidukienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299E2C6D-F0D6-4478-840A-077488D8D465}|guibankapp\\guibankapp.csproj|d:\\th l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299E2C6D-F0D6-4478-840A-077488D8D465}|guibankapp\\guibankapp.csproj|solutionrelative:guibankapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299E2C6D-F0D6-4478-840A-077488D8D465}|guibankapp\\guibankapp.csproj|D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299E2C6D-F0D6-4478-840A-077488D8D465}|guibankapp\\guibankapp.csproj|solutionrelative:guibankapp\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299E2C6D-F0D6-4478-840A-077488D8D465}|guibankapp\\guibankapp.csproj|D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{299E2C6D-F0D6-4478-840A-077488D8D465}|guibankapp\\guibankapp.csproj|solutionrelative:guibankapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TinhLaiDuKienForm.cs [Design]",
+              "DocumentMoniker": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\TinhLaiDuKienForm.cs",
+              "RelativeDocumentMoniker": "guibankapp\\TinhLaiDuKienForm.cs",
+              "ToolTip": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\TinhLaiDuKienForm.cs [Design]",
+              "RelativeToolTip": "guibankapp\\TinhLaiDuKienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:10:46.786Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "guibankapp\\Menu.Designer.cs",
+              "ToolTip": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\Menu.Designer.cs",
+              "RelativeToolTip": "guibankapp\\Menu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:50:39.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\Menu.cs",
+              "RelativeDocumentMoniker": "guibankapp\\Menu.cs",
+              "ToolTip": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\Menu.cs",
+              "RelativeToolTip": "guibankapp\\Menu.cs",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAAwEkEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:36:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\Menu.cs",
+              "RelativeDocumentMoniker": "guibankapp\\Menu.cs",
+              "ToolTip": "D:\\TH L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\final_c# (1)\\guibankapp\\guibankapp\\Menu.cs [Design]",
+              "RelativeToolTip": "guibankapp\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:36:57.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
